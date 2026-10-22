@@ -10,7 +10,7 @@ I'm passionate about problem solving, learning how things work under the hood, a
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Computer Science student focused on software engineering and computer systems
 - 💻 Interested in building reliable web applications and RESTful APIs
@@ -24,7 +24,7 @@ I'm passionate about problem solving, learning how things work under the hood, a
 
 ---
 
-## 🛠️ Technologies & Concepts
+## Technologies & Concepts
 
 <p>
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -43,7 +43,7 @@ I'm passionate about problem solving, learning how things work under the hood, a
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yousef-Esmail&show_icons=true&theme=tokyonight&hide_border=true" alt="Yousef's GitHub stats" />
@@ -52,7 +52,7 @@ I'm passionate about problem solving, learning how things work under the hood, a
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/usafe-3bdella21/">
